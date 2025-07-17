@@ -1,0 +1,6 @@
+.terraform/
+terraform_zoomcamp/.terraform/
+terraform_zoomcamp/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.json
